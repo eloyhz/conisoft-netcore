@@ -1,3 +1,5 @@
-# Taller de .NET Core en el CONIFOST 2018
+# .NET Core @ CONIFOST 2018
 
-Consultar paso a paso en http://a.uaslp.mx
+Taller impartido por **Luis Ángel Juárez Flores**.
+
+Consultar paso a paso el taller en http://a.uaslp.mx/netcore
