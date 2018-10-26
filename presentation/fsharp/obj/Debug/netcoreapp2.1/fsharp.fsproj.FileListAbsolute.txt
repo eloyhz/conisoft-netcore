@@ -1,0 +1,10 @@
+/Users/eloyhz/Code/conisoft-netcore/presentation/fsharp/bin/Debug/netcoreapp2.1/fsharp.deps.json
+/Users/eloyhz/Code/conisoft-netcore/presentation/fsharp/bin/Debug/netcoreapp2.1/fsharp.runtimeconfig.json
+/Users/eloyhz/Code/conisoft-netcore/presentation/fsharp/bin/Debug/netcoreapp2.1/fsharp.runtimeconfig.dev.json
+/Users/eloyhz/Code/conisoft-netcore/presentation/fsharp/bin/Debug/netcoreapp2.1/fsharp.dll
+/Users/eloyhz/Code/conisoft-netcore/presentation/fsharp/bin/Debug/netcoreapp2.1/fsharp.pdb
+/Users/eloyhz/Code/conisoft-netcore/presentation/fsharp/obj/Debug/netcoreapp2.1/fsharp.fsprojAssemblyReference.cache
+/Users/eloyhz/Code/conisoft-netcore/presentation/fsharp/obj/Debug/netcoreapp2.1/fsharp.AssemblyInfoInputs.cache
+/Users/eloyhz/Code/conisoft-netcore/presentation/fsharp/obj/Debug/netcoreapp2.1/fsharp.AssemblyInfo.fs
+/Users/eloyhz/Code/conisoft-netcore/presentation/fsharp/obj/Debug/netcoreapp2.1/fsharp.dll
+/Users/eloyhz/Code/conisoft-netcore/presentation/fsharp/obj/Debug/netcoreapp2.1/fsharp.pdb

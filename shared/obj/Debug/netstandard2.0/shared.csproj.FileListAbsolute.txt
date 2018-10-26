@@ -1,0 +1,9 @@
+/Users/eloyhz/Code/conisoft-netcore/shared/bin/Debug/netstandard2.0/shared.deps.json
+/Users/eloyhz/Code/conisoft-netcore/shared/bin/Debug/netstandard2.0/shared.dll
+/Users/eloyhz/Code/conisoft-netcore/shared/bin/Debug/netstandard2.0/shared.pdb
+/Users/eloyhz/Code/conisoft-netcore/shared/obj/Debug/netstandard2.0/shared.csprojAssemblyReference.cache
+/Users/eloyhz/Code/conisoft-netcore/shared/obj/Debug/netstandard2.0/shared.csproj.CoreCompileInputs.cache
+/Users/eloyhz/Code/conisoft-netcore/shared/obj/Debug/netstandard2.0/shared.AssemblyInfoInputs.cache
+/Users/eloyhz/Code/conisoft-netcore/shared/obj/Debug/netstandard2.0/shared.AssemblyInfo.cs
+/Users/eloyhz/Code/conisoft-netcore/shared/obj/Debug/netstandard2.0/shared.dll
+/Users/eloyhz/Code/conisoft-netcore/shared/obj/Debug/netstandard2.0/shared.pdb
