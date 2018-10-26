@@ -8,12 +8,14 @@ using shared;
 
 namespace csharp.Controllers
 {
-    [Route("api/[controller]")]
+    // [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
     {
         // GET api/values
         [HttpGet]
+        [HttpPost]
+        [Route("Personajes")]
         public ActionResult<IEnumerable<Personaje>> Get()
         {
             var o = new ListaPersonajes();
@@ -28,11 +30,11 @@ namespace csharp.Controllers
             return "value";
         }
 
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
+        // // POST api/values
+        // [HttpPost]
+        // public void Post([FromBody] string value)
+        // {
+        // }
 
         // PUT api/values/5
         [HttpPut("{id}")]
